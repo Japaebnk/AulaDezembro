@@ -1,0 +1,12 @@
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\bin\Debug\Aula8dez.exe.config
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\bin\Debug\Aula8dez.exe
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\bin\Debug\Aula8dez.pdb
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.csproj.AssemblyReference.cache
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.Form1.resources
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.Properties.Resources.resources
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.csproj.GenerateResource.cache
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.exe
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.pdb
+C:\Users\eduardo.obinoki\source\repos\Aula8dez\obj\Debug\Aula8dez.form2.resources
